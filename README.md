@@ -49,12 +49,15 @@
 5.项目名称： 渣打银行Sonar                   职务：开发                     时间：2014/10-2015/5
   项目简述： 一个使用C#+sqlserver开发的WEB项目，主要为渣打银行全休销售人员、市场分析人员等提供一站式服务平台
             （股票行情、行程审批、工作日历、协同办公、客户管理等） 
+  
+6.项目名称： 天津工业大学就业网              职务：项目负责人               时间：2013/7-2014/3
+  项目简述： 天津工业大学主要门户网站之一，主要用于发布学校就业相关信息
 ```  
 [自我描述]
 ```
   * 精通J2EE开发，具有MyBaties、Struts2、Hibernate、Spring、SpringMVC等框架的开发经验；
   * 熟悉AngularJS、Bootstrap、Html、CSS、JS 等前端开发技术，有Android开发经验；
-  * 熟悉MySQL、Sqlserver等关系型数据库；熟悉Redis，有mongodb等NoSQL数据库使用经验
+  * 熟悉MySQL、Sqlserver等关系型数据库；熟悉Redis，有mongodb等NoSQL数据库使用经验；
   * 具有centos服务器使用和维护经验；熟练使用Tomcat应用服务器；
   * 学习能力强，具有较强的业务需求分析能力，责任心强；
   * 熟悉SVN和github、maven等常用工具。能独立阅读英文文档、并能用英文进行基本的交流。
