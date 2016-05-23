@@ -8,10 +8,11 @@
 
 [工作经历]
 ```
-1.工作单位： 必要商城                    职位：Java高级工程师               时间：2015/05-至今
-  开发环境： Java                        核心技术：SpringMVC MyBaties AngularJS Bootstrap Redis SqlServer netty RPC
+1.工作单位： 必要商城                    职位：项目经理               时间：2015/05-至今
+  开发环境： Java                        核心技术：SpringMVC MyBaties AngularJS Bootstrap Redis SqlServer netty RPC rabbitmq sitemesh
   公司简介： 必要C2M商城是全球性价比最高的电子商务平台，是全球第一家用户直连制造（Customer To Manufactory）的平台。
   工作内容： 参与公司新项目的设计与研发；必要商城系统性能优化、安全优化、参与高并发设计与实现；商城API接口开发；
+  子项目：分享有利、顺手赚钱、必要试用、必要消息中心、必要API接口管理系统
 
 2.工作单位： 渣打科营中心(渣打银行)      职位：研发工程师                   时间：2014/2-2015/5
   公司简介： 渣打科营中心是渣打集团继印度香奈和马来西亚吉隆坡后设立的全球第三家服务共享中心。
