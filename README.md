@@ -12,7 +12,8 @@
   开发环境： Java                        核心技术：SpringMVC MyBaties AngularJS Bootstrap Redis SqlServer 
                                                   netty RPC rabbitmq sitemesh
   公司简介： 必要C2M商城是全球性价比最高的电子商务平台，是全球第一家用户直连制造（Customer To Manufactory）的平台。
-  工作内容： 参与公司新项目的设计与研发；必要商城系统性能优化、安全优化、参与高并发设计与实现；商城API接口开发；分管必要商城订单、购物车模块
+  工作内容： 参与公司新项目的设计与研发；必要商城系统性能优化、安全优化、参与高并发设计与实现；
+             商城API接口开发；分管必要商城订单、购物车模块
   子项目：分享有利、顺手赚钱、必要试用、必要消息中心、必要API接口管理系统、必要缓存系统
 
 2.工作单位： 渣打科营中心(渣打银行)      职位：研发工程师                   时间：2014/7-2015/1
@@ -26,9 +27,10 @@
 1.项目名称： 必要商城API                     职务：研发/设计                时间： 2015/10-至今
   项目简述： 必要商城核心系统，为必要商城网站、移动端网站、Android、IOS、财务、商家等系统提供数据支持；
   项目职责： 参与API接口设计与研发、发现与修复系统安全漏洞、高并发设计与实现、接口性能与压力测试等
-            （1）reids连接池改造、reids分布式缓存设计与实现：负载均衡、宕机处理等
-            （2）购物车数据缓存设计与实现
-            （3）微信站点设计与开发（access_token，微信自动回复，微信账号绑定，微信分享，微信客服消息转发.....）
+            （1）必要缓存系统：reids连接池改造、reids分布式缓存设计与实现：负载均衡、宕机处理等
+            （2）必要购物车、订单系统：购物车数据缓存设计与实现
+            （3）必要微信站点设计与开发（access_token，微信自动回复，微信账号绑定，微信分享，微信客服消息转发.....）
+            （4）短信系统：短信防攻击、安全限制设计与实现
 ```
   项目链接： [http://www.biyao.com/home/index.html](http://www.biyao.com/home/index.html) 
 ```
@@ -37,8 +39,8 @@
   项目特点： 支持多管理员、权限控制、角色管理、支持多项目、多模块划分，同时支持私密项目、模块密码访问；
              支持数据字典管理、支持数据字典密码访问；支持项目错误码管理、支持接口拷贝等功能；
              支持前端菜单自定义，支持管理员菜单自定义；支持文章分类、评论等功能；支持接口PDF文件导出
-             doc、excel、text、pdf等稳定管理
-  主要技术：angularjs、bootstrap、springmvc、hibernate、redis、Lucene、solar、markdown
+             doc、excel、text、pdf等稳定管理。开源不到3个月，目前已经被几十家公司采用。
+  主要技术：angularjs、bootstrap、springmvc、hibernate、内存缓存、redis、Lucene、solar、markdown
 ```
   网站链接：[演示站点](http://api.crap.cn)  [源码地址](https://github.com/EhsanTang/CrapApi)
 ```
