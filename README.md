@@ -29,17 +29,19 @@
             （1）reids连接池改造、reids分布式缓存设计与实现：负载均衡、宕机处理等
             （2）购物车数据缓存设计与实现
             （3）微信站点设计与开发（access_token，微信自动回复，微信账号绑定，微信分享，微信客服消息转发.....）
+```
   项目链接： [http://www.biyao.com/home/index.html](http://www.biyao.com/home/index.html) 
-
+```
 2.项目名称： CrapApi                         职务：全部                     时间： 2016/03-至今
   项目简述： 一个由angularjs+bootstrap+springMVC搭建的免费开源的API接口、文档管理系统;
   项目特点： 支持多管理员、权限控制、角色管理、支持多项目、多模块划分，同时支持私密项目、模块密码访问；
              支持数据字典管理、支持数据字典密码访问；支持项目错误码管理、支持接口拷贝等功能；
              支持前端菜单自定义，支持管理员菜单自定义；支持文章分类、评论等功能；支持接口PDF文件导出
              doc、excel、text、pdf等稳定管理
-  网站链接：[演示站点](http://api.crap.cn)  [源码地址](https://github.com/EhsanTang/CrapApi)
   主要技术：angularjs、bootstrap、springmvc、hibernate、redis、Lucene、solar、markdown
-  
+```
+  网站链接：[演示站点](http://api.crap.cn)  [源码地址](https://github.com/EhsanTang/CrapApi)
+```
 3.项目名称： 必要商城消息中心                职务：研发               时间： 2016/05-2016/06
   项目简述： 必要商城子系统，包括站内消息和微信消息，用于平台告警，商库存告警，商家差评通知，商家申述单通知，
              用户下单，物流等消息推送
@@ -67,10 +69,11 @@
   
 7.项目名称： 天津工业大学就业网              职务：项目负责人               时间：2013/7-2014/3
   项目简述： 天津工业大学主要门户网站之一，主要用于发布学校就业相关信息
-  网站链接： http://job.tjpu.edu.cn/index
-```  
-[自我描述]
 ```
+  网站链接： http://job.tjpu.edu.cn/index
+``` 
+[自我描述]
+
   * 精通J2EE开发，具有MyBaties、Struts2、Hibernate、Spring、SpringMVC等框架的开发经验；
   * 熟悉AngularJS、Bootstrap、Html、CSS、JS 等前端开发技术，有Android开发经验；
   * 熟悉MySQL、Sqlserver等关系型数据库；熟悉Redis，有mongodb数据库使用经验；
